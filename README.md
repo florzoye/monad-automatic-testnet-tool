@@ -76,8 +76,8 @@ wallets = [{'key': '123qweasxd','proxy': 'user:pass@ip:port'}] # ADD YOUR WALLET
 
 | Plan               | Price  | Updates  |
 |--------------------|--------|----------|
-| Lifetime          | $300   | ❌ No    |
-| Lifetime          | $500   | ✅ Yes   |
+| Lifetime          | $150   | ❌ No    |
+| Lifetime          | $300   | ✅ Yes   |
 
 ---
 
